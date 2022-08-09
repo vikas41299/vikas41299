@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikas41299
+- 👋 Hi, I’m @vikas
 - 👀 I’m interested in Computational chemistry
 - 🌱 I’m currently learning python and some other software
 
